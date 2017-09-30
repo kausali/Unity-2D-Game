@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: b0e4b16f4aef34e22befc96461d8d70d
+timeCreated: 1498844766
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BgFarGrey
+    21300002: BgFarBlue
+    21300004: BgCloseGrey
+    21300006: BgCloseBlue
+    21300008: Grass
+    21300010: GroundGrass
+    21300012: GroundDirt
+    21300014: Platform_Small_GrassTop
+    21300016: Platform_Small_DirtTop
+    21300018: Platform_Small_GrassBot
+    21300020: Platform_Small_DirtBot
+    21300022: Platform_Mid_GrassTop
+    21300024: Platform_Mid_DirtTop
+    21300026: Platform_Mid_GrassBot
+    21300028: Player
+    21300030: Platform_Mid_DirtBot
+    21300032: Platform_Big_GrassTop
+    21300034: Platform_Big_DirtTop
+    21300036: Platform_Big_GrassBot
+    21300038: Platform_Big_DirtBot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BgFarGrey
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 1023
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BgFarBlue
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 816
+        width: 1022
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BgCloseGrey
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 1023
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BgCloseBlue
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 578
+        width: 1024
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 522
+        width: 1021
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GroundGrass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 1023
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GroundDirt
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 379
+        width: 1023
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Small_GrassTop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 194
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Small_DirtTop
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 354
+        width: 197
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Small_GrassBot
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 195
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Small_DirtBot
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 303
+        width: 197
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Mid_GrassTop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 247
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Mid_DirtTop
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 289
+        width: 248
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Mid_GrassBot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 247
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 188
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Mid_DirtBot
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 193
+        width: 248
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Big_GrassTop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 322
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Big_DirtTop
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 179
+        width: 323
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Big_GrassBot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 322
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform_Big_DirtBot
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 10
+        width: 320
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f500e67a5bc10485580d3b66416db6d2
+timeCreated: 1498848900
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Living Colours Personal Use
+  fontNames:
+  - Living Colours Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
